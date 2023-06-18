@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Budget Manager</string>
+    <string-array name="Options">
+        <item>default</item>
+        <item>A-Z</item>
+        <item>Amount</item>
+    </string-array>
+</resources>

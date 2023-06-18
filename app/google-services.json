@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "166899477759",
+    "project_id": "login-8fc2c",
+    "storage_bucket": "login-8fc2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166899477759:android:e39f7d98d90bb951f3b0ca",
+        "android_client_info": {
+          "package_name": "com.example.budgetmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166899477759-dckq0ujkh5hi2uuegdd6sp6pfvc827iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClXohnU2h_FpUBfyPzLY3V6oAXuC-mODc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166899477759-dckq0ujkh5hi2uuegdd6sp6pfvc827iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166899477759:android:53f0762b5873cc73f3b0ca",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166899477759-dckq0ujkh5hi2uuegdd6sp6pfvc827iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClXohnU2h_FpUBfyPzLY3V6oAXuC-mODc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166899477759-dckq0ujkh5hi2uuegdd6sp6pfvc827iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
